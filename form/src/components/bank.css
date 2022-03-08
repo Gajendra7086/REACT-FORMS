@@ -1,0 +1,49 @@
+.bank{
+   
+    margin: 50px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.bank2{
+    display: flex;
+    flex-flow: column;
+    background-color: whitesmoke;
+    border: 1px solid gray;
+}
+.bank div{
+    margin: 10px;
+}
+.bank select{
+    display: flex;
+    margin-left: 20px;
+    text-align: center;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+}
+.india{
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.india input{
+    width: 200px;
+}
+.india button{
+    margin: 5px;
+    height: 30px;
+    width: 100px;
+}
+.currency{
+    width: 200px;
+    color: blue;
+}
+.render{
+    background-color: white;
+    height: 20px;
+}

@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.address{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: whitesmoke;
+    width: 500px;
+    margin:50px;
+    padding: 10px;
+}
+.address label{
+    font-size: 15px;
+    color: dodgerblue;
+}
+.address input{
+    width: 350px;
+    height: 30px;
+}
+.address button{
+    margin: 5px;
+    height: 30px;
+    width: 100px;
+}
